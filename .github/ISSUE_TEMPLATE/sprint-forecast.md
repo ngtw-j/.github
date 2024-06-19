@@ -9,7 +9,8 @@ assignees: ''
 
 ## When
 **Start Date:** 
-**Duration:"
+
+**Duration:** 
 
 ## Description
 
