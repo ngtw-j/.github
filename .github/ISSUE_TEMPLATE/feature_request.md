@@ -20,5 +20,3 @@ assignees: ''
 
 
 ## Additional context
-
-

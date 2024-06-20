@@ -24,3 +24,6 @@ assignees: ''
  - Version [e.g. 22]
 
 ## Additional context
+
+
+## Potential solutions
